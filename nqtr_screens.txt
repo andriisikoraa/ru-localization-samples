@@ -1,0 +1,39 @@
+# nqtr_screens\screens_memo.rpy #6
+    old "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
+    new "На данный момент история окончена. К сожалению, чтобы продолжить, придётся дождаться обновления."
+
+# nqtr_screens\screens_memo.rpy #10
+    old "You have completed all the quests."
+    new "Вы выполнили все задания."
+
+# nqtr_screens\screens_nqtr.rpy #6
+    old "Settings"
+    new "Настройки"
+
+# nqtr_screens\screens_nqtr.rpy #10
+    old "Quests"
+    new "Задания"
+
+# nqtr_screens\screens_nqtr.rpy #14
+    old "Characters info"
+    new "Информация о персонажах"
+
+# nqtr_screens\screens_nqtr.rpy #18
+    old "Backpack"
+    new "Рюкзак"
+
+# nqtr_screens\screens_nqtr.rpy #22
+    old "Phone"
+    new "Телефон"
+
+# nqtr_screens\screens_nqtr.rpy #26
+    old "Map"
+    new "Карта"
+
+# nqtr_screens\screens_nqtr_component.rpy #6
+    old "Wait"
+    new "Ждать"
+
+# nqtr_screens\screens_nqtr_component.rpy #10
+    old "Talk"
+    new "Поговорить"

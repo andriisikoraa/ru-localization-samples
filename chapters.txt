@@ -1,0 +1,51 @@
+# script.rpy #6
+    old "You wake up from the notification.."
+    new "Вы проснулись от уведомления.."
+
+# script.rpy #12
+    old "I'm already in the front yard of the school! Waiting for you."
+    new "Я уже возле школы! Жду тебя."
+
+# chapters\chapter11.rpy #12
+    old "Nice to see you! Strange to meet after so many years of chatting online.."
+    new "Рад тебя видеть! Странно встретиться после стольких лет общения онлайн…"
+
+# chapters\chapter11.rpy #24
+    old "Your country is just amazing, but there's a lot I don't understand.. It would be good to learn something about the culture and customs.."
+    new "Твоя страна просто потрясающая, но многое мне непонятно.. Было бы здорово узнать немного о культуре и обычаях."
+
+# chapters\chapter11.rpy #78
+    old "*Wow, Takahashi seems to have some mysterious aura..*"
+    new "*Вау, у Такахаши будто есть какая-то загадочная аура…*"
+
+# chapters\chapter11.rpy #84
+    old "Thank you all for the warm welcome. I'm really looking forward to getting to know you."
+    new "Спасибо всем за тёплый приём. Я с нетерпением жду, чтобы узнать вас получше."
+
+# chapters\chapter11.rpy #216
+    old "Good morning! I hope you're prepared for class!"
+    new "Доброе утро! Надеюсь вы готовы к занятию!"
+
+# chapters\chapter11.rpy #234
+    old "My name is Kato-sensei, I teach biology!"
+    new "Меня зовут Като-сэнсэй, я преподаю биологию!"
+
+# chapters\chapter11.rpy #240
+    old "Right now, we're studying the regulation of organism functions, and today's topic is immune disorders."
+    new "Сейчас мы изучаем регуляцию функций организма, а тема сегодняшнего урока — нарушения иммунной системы."
+
+# chapters\chapter11.rpy #282
+    old "I'll help you prepare. If you want, we can meet and go through the material together."
+    new "Я помогу тебе подготовиться. Если хочешь, можем встретиться и пройти материал вместе."
+
+# chapters\chapter11.rpy #306
+    old "Stop it, Yuno-chan, that's not the solution! We'll help you prepare!"
+    new "Прекрати, Юно-тян, это не решение! Мы поможем подготовиться!"
+
+# chapters\chapter11.rpy #322
+    old "Hello, I'm from Poland, hoping to make friends with you all.."
+    new "Привет! Я из Польши, надеюсь подружиться с вами.."
+
+# chapters\chapter11.rpy #334
+    old "My name is [mc_name], I'm from Poland. Thanks for the warm welcome!"
+    new "Меня зовут [mc_name], я из Польши. Спасибо за тёплый приём!"

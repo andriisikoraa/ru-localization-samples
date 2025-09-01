@@ -1,0 +1,67 @@
+# screens.rpy #6
+    old "Back"
+    new "Назад"
+
+# screens.rpy #14
+    old "Skip"
+    new "Пропустить"
+
+# screens.rpy #22
+    old "Save"
+    new "Сохранить"
+
+# screens.rpy #30
+    old "Q.Load"
+    new "Быстрая загрузка"
+
+# screens.rpy #42
+    old "Load"
+    new "Загрузить"
+
+# screens.rpy #54
+    old "Main Menu"
+    new "Главное меню"
+
+# screens.rpy #58
+    old "About"
+    new "О игре"
+
+# screens.rpy #62
+    old "Help"
+    new "Помощь"
+
+# screens.rpy #70
+    old "Version [config.version!t]\n"
+    new "Версия [config.version!t]\n"
+
+# screens.rpy #94
+    old "empty slot"
+    new "пустой слот"
+
+# screens.rpy #122
+    old "Options"
+    new "Опции"
+
+# screens.rpy #126
+    old "Display"
+    new "Дисплей"
+
+# screens.rpy #134
+    old "Fullscreen"
+    new "Полноэкранный режим"
+
+# screens.rpy #150
+    old "Language"
+    new "Язык"
+
+# screens.rpy #154
+    old "Text Speed"
+    new "Скорость текста"
+
+# screens.rpy #162
+    old "Music Volume"
+    new "Громкость музыки"
+
+# screens.rpy #174
+    old "Voice Volume"
+    new "Громкость голоса"
